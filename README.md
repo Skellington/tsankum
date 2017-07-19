@@ -1,5 +1,5 @@
 # Tsankum
-Tsankum is a subtitle converter.
+Tsankum is a subtitle converter written in Go.
 The first objective is to convert SRT files to VTT files compatible with Chromecast.
 
 # About the name
